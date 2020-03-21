@@ -20,5 +20,5 @@ Automation: AutoIt
 Fingerprint scanning: SFGDemo  
 
 # Contributors
-1. Neel patel
+1. Manan Doshi (@manandoshi1607)
 2. Yash Gandhi
